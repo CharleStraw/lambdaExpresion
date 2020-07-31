@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc5b159-a22e-4feb-9bba-0c53d03c2002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionlInterfaces/_consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionlInterfaces/_predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsApp/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsApp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamsApp/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/functionPrograming/functionlInterfaces/_functional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/functionPrograming/functionlInterfaces/_functional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functionlInterfaces/_functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functionlInterfaces/_functional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1fGDJjmMOyzJHHZXrL04wZfLCPT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +41,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="streamsApp.Main" />
       <module name="functionPrograming" />
@@ -60,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="optional.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combinatorPattern.Main" />
       <module name="functionPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="optional.*" />
+          <option name="PATTERN" value="combinatorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionlInterfaces._predicate" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="optional.Main" />
       <module name="functionPrograming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionlInterfaces.*" />
+          <option name="PATTERN" value="optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application._stream" />
         <item itemvalue="Application._supplayer" />
-        <item itemvalue="Application._predicate" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596000298003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Functional programing,lambda expresion">
+      <created>1596112675541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596112675541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,14 +198,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Functional programing,lambda expresion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1596106449399">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1596174768255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596106449399" />
-    <state x="558" y="216" key="CommitChangelistDialog2" timestamp="1596000296866">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596174768255" />
+    <state x="558" y="216" key="CommitChangelistDialog2" timestamp="1596112674601">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596000296866" />
+    <state x="558" y="216" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596112674601" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1596000663463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,38 +214,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596000231738" />
-    <state width="960" height="327" key="GridCell.Tab.0.bottom" timestamp="1596111746301">
+    <state width="960" height="327" key="GridCell.Tab.0.bottom" timestamp="1596189179121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="960" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596111746301" />
-    <state width="960" height="327" key="GridCell.Tab.0.center" timestamp="1596111746301">
+    <state width="960" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596189179121" />
+    <state width="960" height="327" key="GridCell.Tab.0.center" timestamp="1596189179120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="960" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596111746301" />
-    <state width="960" height="327" key="GridCell.Tab.0.left" timestamp="1596111746301">
+    <state width="960" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596189179120" />
+    <state width="960" height="327" key="GridCell.Tab.0.left" timestamp="1596189179120">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="960" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596111746301" />
-    <state width="960" height="327" key="GridCell.Tab.0.right" timestamp="1596111746301">
+    <state width="960" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596189179120" />
+    <state width="960" height="327" key="GridCell.Tab.0.right" timestamp="1596189179121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="960" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596111746301" />
+    <state width="960" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596189179121" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1595929471119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595929471119" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596000651951">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596193347383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596000651951" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596193347383" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596000518443">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596000518443" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596086629487">
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1596174592279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596086629487" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596174592279" />
     <state x="690" y="275" key="extract.method.dialog" timestamp="1595843034398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
